@@ -26,7 +26,7 @@ task.spawn(function()
     game.Lighting.FogStart = 0
 end)
 
-require(game.Players.LocalPlayer.PlayerGui.MainUI.Initiator.Main_Game).caption("Floor 2 theme recreate by localplayer loaded",true)
+require(game.Players.LocalPlayer.PlayerGui.MainUI.Initiator.Main_Game).caption("Что...Где... Где Я? Это не похоже на отель...",true)
 
 function convert(Room)
     task.wait(1.5)
